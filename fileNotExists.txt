@@ -1,0 +1,3 @@
+Here’s how you can use Files.
+write to write a collection of lines to a file, with options to create the file
+if it doesn't exist and append to an existing file.

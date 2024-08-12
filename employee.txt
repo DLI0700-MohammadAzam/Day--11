@@ -1,0 +1,1 @@
+Employee{empId=1246, empName='Azam', salary=12345.9}Employee{empId=1245, empName='Azeez', salary=123456.87}

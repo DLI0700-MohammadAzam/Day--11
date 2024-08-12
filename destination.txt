@@ -1,0 +1,5 @@
+We get the name of the file using the getName()
+We get the absolute path of the file using the getAbsolutePath() method of the file.
+We check whether we can write data into a file or not using the canWrite()
+We check whether we can read the data of the file or not using the canRead()
+We get the length of the file by using the length()
